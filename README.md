@@ -34,8 +34,3 @@
 <br>
 
 ---
-
-Beta
-0 / 0
-used queries
-1
